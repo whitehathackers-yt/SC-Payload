@@ -73,7 +73,7 @@ if [ $pil = n ]
 then
 clear
 echo $g "Have a good day"
-exit
+cd home
 
 if [ $pil = y ]
 then
